@@ -1,5 +1,5 @@
 # Griff aka XxStormySkies
-Welcome to my portfolio! This is for to show of my experience in roblox development using previous work.
+Welcome to my portfolio! This is to show of my experience in roblox development using previous work.
 
 ## Skills
 - Building (Using Roblox)
