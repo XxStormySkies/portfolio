@@ -1,4 +1,4 @@
-# Griff aka XxStormySkies
+# Griffin aka XxStormySkies
 Welcome to my portfolio! This is to show of my experience in roblox development using previous work.
 
 ## Skills
@@ -6,4 +6,4 @@ Welcome to my portfolio! This is to show of my experience in roblox development 
 - User Interface
 
 ## Contact
-You can contant me through discord, by direct messaging the user "XxStormySkies"
+You can contant me through discord, by direct messaging the user @XxStormySkies
